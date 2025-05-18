@@ -18,10 +18,10 @@
 		"dist": "jam pack; cp -r ./tron/* ./out/; build"
 	},
 	"dependencies": {
-		"collider.jam": "git+https://github.com/invider/collider.jam.git",
-		"collider.mix": "git+https://github.com/invider/collider.mix.git",
-		"collider-dev.mix": "git+https://github.com/invider/collider-dev.mix.git",
-		"collider-boot.mix": "git+https://github.com/invider/collider-boot.mix.git"
+		"collider.jam": "git+https://github.com/invadium/collider.jam.git",
+		"collider.mix": "git+https://github.com/invadium/collider.mix.git",
+		"collider-dev.mix": "git+https://github.com/invadium/collider-dev.mix.git",
+		"collider-boot.mix": "git+https://github.com/invadium/collider-boot.mix.git"
 	},
 	"devDependencies": {
 		"electron": "latest",
